@@ -1,0 +1,15 @@
+.table-styles {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+}
+
+.initial-colun {
+  display: flex;
+}
+.order-no {
+  text-align: left;
+}

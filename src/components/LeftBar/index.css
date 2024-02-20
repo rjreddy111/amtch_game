@@ -1,0 +1,40 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.left-bar-container {
+  width: 15%;
+  background-color: #f0f0f0;
+  margin-right: 10px;
+}
+ul {
+  width: 100%;
+  padding: 0px;
+}
+
+.active-order {
+  background-color: #8efaed;
+  width: 100%;
+  color: #0f8ddb;
+}
+li {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px;
+}
+li:hover {
+  background-color: grey;
+}
+
+p {
+  margin-left: 10px;
+}
+
+.highligh {
+  background-color: #8efaed;
+  color: #0f8ddb;
+}
+
+.normal {
+  background-color: #f0f0f0;
+}
